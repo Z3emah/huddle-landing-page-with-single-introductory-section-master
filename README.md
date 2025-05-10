@@ -5,8 +5,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Z3emah/huddle-landing-page-with-single-introductory-section-master](https://github.com/Z3emah/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [https://z3emah.github.io/huddle-landing-page-with-single-introductory-section-master/](https://z3emah.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
